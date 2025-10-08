@@ -1,2 +1,2 @@
 # Django-Simple-Project
-Nnsns
+
